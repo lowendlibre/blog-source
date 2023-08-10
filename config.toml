@@ -58,8 +58,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "lowendlibre Blog"
+    subtitle = "The official blog for the lowendlibre project."
     owner = ""
     keywords = ""
     copyright = ""
@@ -68,11 +68,11 @@ paginate = 5
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
+    missingContentMessage = "Here Be Dragons. You made a wrong turn..."
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "lowendlibre"
       logoHomeLink = "/"
 
     [languages.en.menu]
