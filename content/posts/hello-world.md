@@ -15,6 +15,4 @@ color = "" #color from the theme settings
 
 Welcome to the lowendlibre blog! Here we post about our efforts porting mobile Linux distros to a variety of low-end (generally) MediaTek based devices. We mostly focus on postmarketOS for the main porting effort, but we plan to support Mobian and maybe a few other distros. ;) If this interests you, then welcome! Strap in and get ready for a bumpy ride because...
 
-
-
 ##### **HERE BE DRAGONS**
